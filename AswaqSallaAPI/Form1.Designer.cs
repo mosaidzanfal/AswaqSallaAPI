@@ -25,7 +25,7 @@
             this.btnImport.Name = "btnImport";
             this.btnImport.Size = new System.Drawing.Size(180, 40);
             this.btnImport.TabIndex = 0;
-            this.btnImport.Text = "Import from Salla-Modi";
+            this.btnImport.Text = "Import from Salla";
             this.btnImport.UseVisualStyleBackColor = true;
             this.btnImport.Click += new System.EventHandler(this.btnImport_Click);
             // 
