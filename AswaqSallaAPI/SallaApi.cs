@@ -9,7 +9,7 @@ namespace SallaWinFormsDemo
 {
     public class SallaApi
     {
-        private const string TokenUrl = "https://accounts.salla.sa/callback/987410667";//"https://accounts.salla.sa/oauth2/token";
+        private const string TokenUrl = "https://accounts.salla.sa/callback/1126924571";
         private const string BaseUrl = "https://api.salla.dev/admin/v2";//toBe updated in production environment with real cust url
 
         private readonly HttpClient _http;

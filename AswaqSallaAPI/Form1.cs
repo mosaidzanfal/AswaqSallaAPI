@@ -20,8 +20,8 @@ namespace SallaWinFormsDemo
              Custom Mode
             A custom web page needs to be created to handle the callback URLs and retrieve the Access Token and Refresh Token.
          */
-        private readonly string _clientId = "6e546fc0-8941-4503-8ded-d75b3db47bf8";//"YOUR_CLIENT_ID";
-        private readonly string _clientSecret = "0f53a8e119a119ef89e8b852619c0789bed18c27e80adcbb90603d7e7ecac857";//"YOUR_CLIENT_SECRET";
+        private readonly string _clientId = "4fa28b07-97a6-4d63-bfb3-c459d857f7d2";//"YOUR_CLIENT_ID";
+        private readonly string _clientSecret = "70cdb54db6c72310cb2ea074198adb76ffdc0240b727e6a02243af449119fc65";//"YOUR_CLIENT_SECRET";
         private readonly string _refreshToken = "0f53a8e119a119ef89e8b852619c0789bed18c27e80adcbb90603d7e7ecac857";//"YOUR_REFRESH_TOKEN";
 
         public Form1()
