@@ -12,7 +12,7 @@ namespace SallaWinFormsDemo
         // عدّل اتصالك
         private readonly string _connStr =
             "Server=.;Database=AswaqTestDCV3;Trusted_Connection=True;TrustServerCertificate=True;";
-
+        //comment
         /* ضع بيانات تطبيق سِلّة
          OAuth Mode
             Easy Mode
